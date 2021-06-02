@@ -13,4 +13,4 @@ pip install -r requirements.txt
   vehicle_count_detection.py
 
 #Result
-![](results/car_detection_result.mp4)
+![](blob/main/results/car_detection_result.mp4)
