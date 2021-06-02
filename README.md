@@ -13,4 +13,10 @@ pip install -r requirements.txt
   vehicle_count_detection.py
 
 # Result
+
+### Vehicles Detection results for video
 ![Screenshot (89)](https://user-images.githubusercontent.com/74568334/120477603-41c2aa80-c3ac-11eb-9e93-b0a9abf9b2fe.png)
+
+### Vehicles Counting results for images
+![car_1_orig](https://user-images.githubusercontent.com/74568334/120520606-48651800-c3d4-11eb-89f1-a9be2240217f.png)
+![car_1_result](https://user-images.githubusercontent.com/74568334/120520617-4b600880-c3d4-11eb-9219-79117222c581.png)
