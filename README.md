@@ -4,8 +4,9 @@ Cars detecting and counting using openCV
 
 # How to run the code
 
-git clone git@github.com:KrishArul26/Cars_Counting-Detection-using-haar-Cacade
-cd opencv-car-detection-video
+git clone git@github.com: KrishArul26/Cars_Counting-Detection-using-haar-Cacade
+
+opencv-car-detection-video
 pip install -r requirements.txt
   ### For vehicles detection for videos fil
   python vehicle_video_detection.py
