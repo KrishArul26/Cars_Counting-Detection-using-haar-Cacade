@@ -12,5 +12,5 @@ pip install -r requirements.txt
   ### For vehicles detection and counting for images 
   vehicle_count_detection.py
 
-#Result
+# Result
 ![Screenshot (89)](https://user-images.githubusercontent.com/74568334/120477603-41c2aa80-c3ac-11eb-9e93-b0a9abf9b2fe.png)
