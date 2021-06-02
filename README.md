@@ -15,7 +15,8 @@ pip install -r requirements.txt
 # Result
 
 ### Vehicles Detection results for video
-![Screenshot (89)](https://user-images.githubusercontent.com/74568334/120477603-41c2aa80-c3ac-11eb-9e93-b0a9abf9b2fe.png)
+![video_detection_result](https://user-images.githubusercontent.com/74568334/120521154-e8bb3c80-c3d4-11eb-85b5-d85a656aacf3.gif)
+
 
 ### Vehicles Counting results for images
 ![car_1_orig](https://user-images.githubusercontent.com/74568334/120520606-48651800-c3d4-11eb-89f1-a9be2240217f.png)
